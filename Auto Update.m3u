@@ -150,7 +150,7 @@ http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc37b134b7aaa6d972e0d
 http://opplex.org:8080/live/628594/515273/380968.ts
 
 #EXTINF:-1 tvg-id="StarVijay.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Vijay-HD.png" group-title="Tamil",Star Vijay HD
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc37a1c4668a977942c0b5e2d610bed12/index.m3uoken=821cf0c71a086ece09da3600e2d5dca2da33abae558e3f9aa76d269263c11ee2f878d974de0a2b66c39e4153ee2c78396ce29444cdc6fd356e6d48c2860e88a506f20c67b8edfddf048f|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc37a1c4668a977942c0b5e2d610bed12/index.m3u8?token=7552ef9d4eb98b50d5c620bf6f1ef3e2f9a326f62a89d0bc1d71f8e4e57e1af4783f2ed527a012a6c5f71de8d73b5fa5e983a8f0eaaf6d8bbbd072b52204d55d2f4cb049a8cee6-a2ec9a5065782553cd0906013e8d04ed|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 
 #EXTINF:-1 tvg-id="TVI.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TVi.png" group-title="Tamil",TVI HD
 https://live.cmr24.fm/TVI/HD/playlist.m3u8
