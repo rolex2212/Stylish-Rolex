@@ -1,19 +1,188 @@
 #EXTM3U
-#EXTINF:-1,Colors Tamil
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bd361115b65ac618a2c1f482c6b0df710bbb8a976/index.m3u8?token=613c3aedb8226797d7f48be8cfa7dd98ed73b256a1e387e4cbcab936a7466baaf711c0bedfed1d55a0d8246803adada54eabf814547d21eaf6d505264f54bd7c006683d1ef3f83-f53b46282886f26cb0f176b6a53db28e
-#EXTINF:-1,Jaya TV
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bda6f045568ab68812516/index.m3u8?token=c3f926c5aa48e528b07a7145e80d7157c38def697f09ada27f79a020d137c3cdbc5c66cc274152ca14a9bc4469baca6e167afda938fd34f2a0299113d409951b969e6c7500eb27-397515e71cf884a0666b5b586f6556e4
-#EXTINF:-1,KTV
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bdb7a0b4b7fbb/index.m3u8?token=935e490e99c96b6da5e14eb4fbbd38245961988fc71e0a9f90613b196e0ea742a9da572fad781a053ff842b697038cb9a34e1b0c7fc7f2b64e18f2fefd75eca49e40b702df65c1-ea0a4ea30a92089fea6bab7d6c79451e
-#EXTINF:-1,Sun TV
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc37b134b63a96197230d4924/index.m3u8?token=dbeda849d76db4d379dbed9f7416c274b4b8b8707eb4f2851005f78093608c3773539a851c100edec4b7003643b7dc450aec25d4c2bdbe9323c80b90fa9ee06be46149a2bf3268-69a4f03f68af0c89a58ddb1c971db613
-#EXTINF:-1,Star Vijay
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc37a1c4668a977942c0b5e2d610bed12/index.m3u8?token=63a1fbf8939b336a5cc1677c7e2e887cf53e0b02737adc6eb2a47d28275b675f6503132fb8bbf35d48f6d9491e12dd9068a5bf87264bae94fb8cc0c3edb1e52380cf3015f1d1ce-6e13422931852a6d83c193d24d99421c
-#EXTINF:-1,Vijay Super
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc66717556ea06d8b3d1753/index.m3u8?token=1c64b644b814237b7b79bb9311ed183ee1c1401c11386191238222a95b6d5735c827b82670e80a19a579d000e293b25088b4397f6c9a5a028d409dc1512d696906afc50ab75a46-4fe99afd8cb97b75cb1b3c6d374172e5
-#EXTINF:-1,Zee Tamil
+
+#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/7S-Music.png" group-title="Tamil",7S Music
+
+
+#EXTINF:-1 tvg-id="AaryaaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Tamil",Aaryaa TV
+
+
+#EXTINF:-1 tvg-id="AasthaTamil.in@SD" tvg-logo="https://i.imgur.com/YQK9ewf.png" group-title="Tamil",Aastha Tamil
+
+
+#EXTINF:-1 tvg-id="AathavanTV.uk@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Athavan-TV.png" group-title="Tamil",Aathavan TV
+
+
+#EXTINF:-1 tvg-id="194407" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Adithya-TV.png" group-title="Tamil",Adithya TV
+http://opplex.org:8080/live/628594/515273/380995.ts
+
+#EXTINF:-1 tvg-id="194407" tvg-logo="https://sund-images.sunnxt.com/194407/960x540_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg" group-title="Tamil",Adithiya TV
+
+
+#EXTINF:-1 tvg-id="AnandhamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-25/2511253358000.jpg" group-title="Tamil",Anandham TV
+
+
+#EXTINF:-1 tvg-id="AnimalPlanet.in@SD" tvg-logo=tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Animal-Planet-HD-World.png" group-title="Tamil",Animal Planet HD
+
+
+#EXTINF:-1 tvg-id="AngelTV.in@India" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Tamil",Angel TV
+
+
+#EXTINF:-1 tvg-id="AsiaTV.lk@HD" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="Tamil",Asia TV
+
+
+#EXTINF:-1 tvg-id="AaseervathamTV.in@SD" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="Tamil",Aaseervatham
+
+
+#EXTINF:-1 tvg-id="ChuttiTV.in@SD" tvg-logo="https://i.imgur.com/FSM47sR.png" group-title="Tamil",Chutti TV
+
+
+#EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png" group-title="Tamil",Cartoon Network
+
+
+#EXTINF:-1 tvg-id="ColorsTamil.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Tamil-HD.png" group-title="Tamil",Colors Tamil HD
+http://opplex.org:8080/live/628594/51527
+
+#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-logo="https://yt3.googleusercontent.com/gOPDl0p0Ssungy3AfKG9MNHeW1QEwRmoFw0_dwDsUulDPE5Hv9nicA3MCjYyzYInzw8kbd5C=s900-c-k-c0x00ffffff-no-rj" group-title="Tamil",DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/D-Tamil.png" group-title="Tamil",Discovery World
+
+
+#EXTINF:-1 tvg-id="DiscoveryKids.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Tamil",Discovery Kids
+
+
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Tamil",Disney Channel HD
+
+
+#EXTINF:-1 tvg-id="EETTV.ca@SD" tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="Tamil",EET TV
+
+
+#EXTINF:-1 tvg-id="Gubbare.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gubbare.png" group-title="Tamil",Gubbare
+
+
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/History-TV18-HD.png" group-title="Tamil",History TV18 HD
+
+
+#EXTINF:-1 tvg-id="IBCBakthi.uk@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Bhakti.png" group-title="Tamil",IBC Bakthi
+
+
+#EXTINF:-1 tvg-id="IBCTamil.uk@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Tamil.png" group-title="Tamil",IBC Tamil
+
+
+#EXTINF:-1 tvg-id="JothiTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jothi-TV.png" group-title="Tamil",Jothi TV
+
+
+#EXTINF:-1 tvg-id="1797" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Tamil",J Movie
+http://opplex.org:8080/live/628594/515273/380981.ts
+
+#EXTINF:-1 tvg-id="1059" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-TV-HD.png" group-title="Tamil",Jaya TV HD
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9R
+
+#EXTINF:-1 tvg-id="JayaMax.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Max.png" group-title="Tamil",Jaya Max
+http://opplex.org:8080/live/628594/515273/381076.ts
+
+#EXTINF:-1 tvg-id="1311" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Plus.png" group-title="Tamil",Jaya Plus
+
+
+#EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Isaiaruvi.png" group-title="Tamil",Isai Aruvi
+http://opplex.org:8080/live/628594/515273/381008.ts
+
+#EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Murasu-TV.png" group-title="Tamil",Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Seithigal-TV.png" group-title="Tamil",Seithigal
+
+
+#EXTINF:-1 tvg-id="SirippoliTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sirippoli-1.png" group-title="Tamil",Sirippoli TV
+
+
+#EXTINF:-1 tvg-id="KalaignarTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalaignar-TV-1.png" group-title="Tamil",Kalaignar
+http://opplex.org:8080/live/628594/515273/380990.ts
+
+#EXTINF:-1 tvg-id="KalaignarTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalaignar-TV-1.png" group-title="Tamil",Kalaignar
+
+
+#EXTINF:-1 tvg-id="KTV.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/KTV-HD.png" group-title="Tamil",KTV HD
+http://starshare.net/live/farhat-3379/67
+
+#EXTINF:-1 tvg-id="MadhaTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Madha-TV.png" group-title="Tamil",Madha TV
+
+
+#EXTINF:-1 tvg-id="MakkalTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Makkal-TV.png" group-title="Tamil",Makkal TV
+
+
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/MalaiMurasu-Seithigal.png" group-title="Tamil",Malai Murasu TV
+
+
+#EXTINF:-1 tvg-id="MalarTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png" group-title="Tamil",Malar TV
+
+
+#EXTINF:-1 tvg-id="MarutamMusic.in@SD" tvg-logo="" group-title="Tamil",MN Music
+
+#EXTINF:-1 tvg-id="NDTVLANKA.lk@SD" tvg-logo="https://i0.wp.com/tamilultra.icu/wp-content/uploads/2025/10/NDTV_LANKA.png" group-title="Tamil",NDTV LANKA
+https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Moon.png" group-title="Tamil",Moon TV
+
+
+#EXTINF:-1 tvg-id="PolimerTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Polimer.png" group-title="Tamil",Polimer TV
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+
+#EXTINF:-1 tvg-id="PuthuyugamTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Yugam.png" group-title="Tamil",Puthuyugam
+http://opplex.org:8080/live/628594/515273/381005.ts
+
+#EXTINF:-1 tvg-id="RajTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-TV.png" group-title="Tamil",Raj TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+
+#EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Digital-Plus.png" group-title="Tamil",Raj Digital Plus
+http://opplex.org:8080/live/628594/515273/381068.ts
+
+#EXTINF:-1 tvg-id="RajMusixTamil.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Tamil",Raj Musix
+http://opplex.org:8080/live/628594/515273/380988.ts
+
+#EXTINF:-1 tvg-id="SunTV.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="Tamil",Sun TV HD
+http://starshare.net/live/farhat-3379/67897-91337
+
+#EXTINF:-1 tvg-id="SunMusic.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+http://opplex.org:8080/live/628594/51527
+
+#EXTINF:-1 tvg-id="SunLife.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Life.png" group-title="Tamil",Sun Life
+http://opplex.org:8080/live/628594/515273/380968.ts
+
+#EXTINF:-1 tvg-id="StarVijay.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Vijay-HD.png" group-title="Tamil",Star Vijay HD
+http://opplex.org:8080/live/628594/515273/3809
+
+#EXTINF:-1 tvg-id="TVI.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TVi.png" group-title="Tamil",TVI HD
+https://live.cmr24.fm/TVI/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TamilanTV.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tamilan_Television.png" group-title="Tamil",Tamilan TV
+https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Tamil",Tunes 6
+http://opplex.org:8080/live/628594/515273/382341.ts
+
+#EXTINF:-1 tvg-id="VasanthTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vasanth-TV.png" group-title="Tamil",Vasanth TV
+http://opplex.org:8080/live/628594/515273/381046.ts
+
+#EXTINF:-1 tvg-id="VendharTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vendhar.png" group-title="Tamil",Vendhar TV
+http://opplex.org:8080/live/628594/515273/381004.ts
+
+#EXTINF:-1 tvg-id="VasanthamTV.lk@SD" tvg-logo="https://i0.wp.com/tamilultra.icu/wp-content/uploads/2023/06/Vasantham_TV.png" group-title="Tamil",Vasantham TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+#EXTVLCOPT:http-referrer=https://itn.lk
+https://hls-abiri0ry-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/emECWxBE00V4ULId/tracks-v1a1/rewind-28800.m3u8
+
+#EXTINF:-1 tvg-id="1043" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png" group-title="Tamil",Vijay Takkar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+#EXTVLCOPT:http-origin=https://tamilultra.icu
+#EXTVLCOPT:http-referrer=https://tamilultra.icu/player.php?master.m3u8?c=VIJAY_TAKKAR
+https://tamilultra.icu/master.m3u8?c=VIJAY_TAKKAR
+
+#EXTINF:-1 tvg-id="1043" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png" group-title="Tamil",Vijay Super HD
+http://starshare.net/live/abidhussain112/abidhussain11
+
+#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tamil-HD.png" group-title="Tamil",Zee Tamil HD
 http://opplex.org:8080/live/628594/515273
-#EXTINF:-1,Zee Thirai
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bca6b184b63b7778c2c1b/index.m3u8?token=df688870b4eea4092a6495f787dfcd7cee37da073bd3f3effb277b425d2eb0210a403404224ebe0eb5014e7f1ecb80a5a132729538a5e0240378c46b4c508f6c388da50681fe53-05a35a7ede8598bb49fdf9b2fbbd40d1
-#EXTINF:-1,Sun Music
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc37b134b7aaa6d972e0d542b6b10e0/index.m3u8?token=0399f7116f4be3bc83c8c102c9e767a73446212f3d61fc15e5c1c33bee783979f87f10d72f50482857b187cbc044958c21ed73370137ac5988992d8e8750734a71314c6235f09d-28dd8a96338284c1083a05dbe5ed8b23
+
+#EXTINF:-1 tvg-id="ZeeThirai.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Thirai.png" group-title="Tamil",Zee Thirai HD
+http://starshare.net/live/abidhussain112/abidhuss
