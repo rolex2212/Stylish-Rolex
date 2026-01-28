@@ -141,10 +141,10 @@ http://opplex.org:8080/live/628594/515273/381068.ts
 http://opplex.org:8080/live/628594/515273/380988.ts
 
 #EXTINF:-1 tvg-id="SunTV.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="Tamil",Sun TV HD
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc37b134b63a96197230d4924/index.m3u8?token=76ea796fafcede3e0c937bc791127c3e334b6f35ba4561840fa8a4e5c4adb4e9cf624079da18f94d6ab4e8ea6f1eb997e4a3661f15937534194280eb4fb6a97ecec0fde309c523-a8a673b25cbe9f7c44fe7865b3fce991
+http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc37b134b63a9618b260d4924/index.m3u8?token=bc0d8ad564d0ef8fef19bc5e13bab318987bdcf733ef262a47b51491b389f2f6dda1d7fb6e55261be0bb663181d9d801859de14be71ba15e2673077a8270c2e5f0b97f49d30a65-e42e8a7bac3e7a1f5b97e85234264c88
 
 #EXTINF:-1 tvg-id="SunMusic.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc37b134b7aaa6d972e0d482e6b10e0/index.m3u8?token=fde3b4c5b46a638bea96ff62d8e3fbb6417eb07fc0222e961389ca935d25477adcd98ac9d7f14c4049811800eaa7ecb5396c3d4f6edfd7acfc546a7efaa7210931bb9563a871aa-b0d4444aa43cb4851ff0c32401781e63
+http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc37b134b7aaa6d972e0d542b6b10e0/index.m3u8?token=6bd57523a0664f16dfd1dffca27ff85d2c1062dc28a125ae48d96eab93fc2d3c821df069f7ad6a6dbaf9ffb156f151620504367fd64ed8d844c53ed34d4ecb1f7b75995a83b092-8cf6a2093bbb60aef78f03baf738fb10
 
 #EXTINF:-1 tvg-id="SunLife.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Life.png" group-title="Tamil",Sun Life
 http://opplex.org:8080/live/628594/515273/380968.ts
