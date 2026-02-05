@@ -25,7 +25,7 @@ http://opplex.org:8080/live/628594/515273/380995.ts
 
 
 #EXTINF:-1 tvg-id="AngelTV.in@India" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Tamil",Angel TV
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=898&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F898&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="AsiaTV.lk@HD" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="Tamil",Asia TV
 
@@ -34,13 +34,13 @@ http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=898&extension=ts
 
 
 #EXTINF:-1 tvg-id="ChuttiTV.in@SD" tvg-logo="https://i.imgur.com/FSM47sR.png" group-title="Tamil",Chutti TV
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=975&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F975&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png" group-title="Tamil",Cartoon Network
 
 
 #EXTINF:-1 tvg-id="ColorsTamil.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Tamil-HD.png" group-title="Tamil",Colors Tamil HD
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=8651&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F8651&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-logo="https://yt3.googleusercontent.com/gOPDl0p0Ssungy3AfKG9MNHeW1QEwRmoFw0_dwDsUulDPE5Hv9nicA3MCjYyzYInzw8kbd5C=s900-c-k-c0x00ffffff-no-rj" group-title="Tamil",DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
@@ -55,7 +55,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/in
 
 
 #EXTINF:-1 tvg-id="EETTV.ca@SD" tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="Tamil",EET TV
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=5153&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F5153&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="Gubbare.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gubbare.png" group-title="Tamil",Gubbare
 
@@ -64,37 +64,37 @@ http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=5153&extension=ts
 
 
 #EXTINF:-1 tvg-id="IBCBakthi.uk@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Bhakti.png" group-title="Tamil",IBC Bakthi
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=1585&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F1585&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="IBCTamil.uk@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Tamil.png" group-title="Tamil",IBC Tamil
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=3753&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F3753&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="JothiTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jothi-TV.png" group-title="Tamil",Jothi TV
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=32837&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F32837&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="1797" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Tamil",J Movie
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=985&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F985&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="1059" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-TV-HD.png" group-title="Tamil",Jaya TV HD
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=854&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F854&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="JayaMax.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Max.png" group-title="Tamil",Jaya Max
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=903&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F903&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="1311" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Plus.png" group-title="Tamil",Jaya Plus
 
 
 #EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Isaiaruvi.png" group-title="Tamil",Isai Aruvi
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=813&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F813&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Murasu-TV.png" group-title="Tamil",Murasu
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=1637&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F1637&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Seithigal-TV.png" group-title="Tamil",Seithigal
 
 
 #EXTINF:-1 tvg-id="SirippoliTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sirippoli-1.png" group-title="Tamil",Sirippoli TV
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=4842&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F4842&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="KalaignarTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalaignar-TV-1.png" group-title="Tamil",Kalaignar
 http://opplex.org:8080/live/628594/515273/380990.ts
@@ -103,16 +103,16 @@ http://opplex.org:8080/live/628594/515273/380990.ts
 
 
 #EXTINF:-1 tvg-id="KTV.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/KTV-HD.png" group-title="Tamil",KTV HD
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=711&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F711&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="MadhaTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Madha-TV.png" group-title="Tamil",Madha TV
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=3785&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F3785&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="MakkalTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Makkal-TV.png" group-title="Tamil",Makkal TV
 
 
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/MalaiMurasu-Seithigal.png" group-title="Tamil",Malai Murasu TV
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=1637&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F1637&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="MalarTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png" group-title="Tamil",Malar TV
 
@@ -123,37 +123,37 @@ http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=1637&extension=ts
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Moon.png" group-title="Tamil",Moon TV
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=5122&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F5122&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="PolimerTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Polimer.png" group-title="Tamil",Polimer TV
-https://cdn-2.pishow.tv/live/1241/master.m3u8
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F921&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="PuthuyugamTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Yugam.png" group-title="Tamil",Puthuyugam
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=1067&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F1067&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="RajTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-TV.png" group-title="Tamil",Raj TV
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F983&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Digital-Plus.png" group-title="Tamil",Raj Digital Plus
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=980&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F980&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="RajMusixTamil.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Tamil",Raj Musix
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=981&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F981&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="SunTV.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="Tamil",Sun TV HD
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=8681&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F8681&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="SunMusic.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=723&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F723&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="SunLife.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Life.png" group-title="Tamil",Sun Life
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=901&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F901&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="StarVijay.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Vijay-HD.png" group-title="Tamil",Star Vijay HD
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=838&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F838&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="TVI.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TVi.png" group-title="Tamil",TVI HD
-https://live.cmr24.fm/TVI/HD/playlist.m3u8
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F1066&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="TamilanTV.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tamilan_Television.png" group-title="Tamil",Tamilan TV
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
@@ -162,13 +162,13 @@ https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835
 http://opplex.org:8080/live/628594/515273/382341.ts
 
 #EXTINF:-1 tvg-id="VasanthTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vasanth-TV.png" group-title="Tamil",Vasanth TV
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=816&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F816&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="VendharTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vendhar.png" group-title="Tamil",Vendhar TV
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=817&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F817&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="VasanthamTV.lk@SD" tvg-logo="https://i0.wp.com/tamilultra.icu/wp-content/uploads/2023/06/Vasantham_TV.png" group-title="Tamil",Vasantham TV
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=816&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F816&mac=00:1A:79:17:1E:AA
 #EXTVLCOPT:http-referrer=https://itn.lk
 https://hls-abiri0ry-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/emECWxBE00V4ULId/tracks-v1a1/rewind-28800.m3u8
 
@@ -179,10 +179,10 @@ https://hls-abiri0ry-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/emECWxBE00V4
 https://tamilultra.icu/master.m3u8?c=VIJAY_TAKKAR
 
 #EXTINF:-1 tvg-id="1043" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png" group-title="Tamil",Vijay Super HD
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=680&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F680&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tamil-HD.png" group-title="Tamil",Zee Tamil HD
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=716&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F716&mac=00:1A:79:17:1E:AA
 
 #EXTINF:-1 tvg-id="ZeeThirai.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Thirai.png" group-title="Tamil",Zee Thirai HD
-http://tv.maxx4k.cc/play/live.php?mac=00:1A:79:17:1E:AA&stream=5118&extension=ts
+http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F5118&mac=00:1A:79:17:1E:AA
